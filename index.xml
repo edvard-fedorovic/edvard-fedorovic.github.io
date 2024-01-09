@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello there</title>
+    
+    
+    
+    <link>https://edvard-fedorovic.github.io/</link>
+    <description>Recent content on Hello there</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jan 2024 22:01:22 +0200</lastBuildDate>
+    
+	<atom:link href="https://edvard-fedorovic.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Also:</title>
+      <link>https://edvard-fedorovic.github.io/posts/secondpage/</link>
+      <pubDate>Tue, 09 Jan 2024 22:01:22 +0200</pubDate>
+      
+      <guid>https://edvard-fedorovic.github.io/posts/secondpage/</guid>
+      <description>
+        
+          
+          
+          
+        
+        
+        
+          Another day as a programmer. Time to find new calling&amp;hellip;. maybe tester.
+          
+        
+        </description>
+    </item>
+    
+  </channel>
+</rss>
